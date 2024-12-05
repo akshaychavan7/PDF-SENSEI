@@ -47,3 +47,7 @@ PDF Sensei is a machine learning-powered application that allows users to upload
 # Architecture
 
 ![Architecture Diagram](https://raw.githubusercontent.com/akshaychavan7/PDF-SENSEI/refs/heads/main/assets/PDF%20SENSEI%20Architecture.png)
+
+# Working Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q2D_QP9nps?si=_0io1Vo4GL7tcNLb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
