@@ -43,3 +43,7 @@ PDF Sensei is a machine learning-powered application that allows users to upload
   ```bash
   streamlit run app.py
   ```
+
+# Architecture
+
+![Architecture Diagram](https://raw.githubusercontent.com/akshaychavan7/PDF-SENSEI/refs/heads/main/assets/PDF%20SENSEI%20Architecture.png)
